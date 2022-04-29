@@ -41,6 +41,8 @@ const int AC2 = 17; //17
 const int DC1 = 26;//26
 const int DC2 = 27;
 
+const int button_pin = 18;
+
 //Toggle switches starting values
 String plugStatus1 = "off";
 String plugStatus2 = "off";
